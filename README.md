@@ -8,6 +8,13 @@ React is a JavaScript library for building user interfaces. It's the most popula
 
 Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
 
+### What's Used?
+1. [React js](https://reactjs.org/)
+2. [Firebase](https://firebase.google.com/)
+3. [Material UI](https://mui.com)
+4. [React Flip Move](https://github.com/joshwcomeau/react-flip-move)
+5. [Pure CSS](https://www.w3schools.com/Css/)
+
 =======================================================================
 
 Thanks for Clever Programmer YouTube Channel for education about create facebook messenger clone app using react and firebase
